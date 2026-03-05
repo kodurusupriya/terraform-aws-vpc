@@ -85,7 +85,3 @@ variable "is_peering_required" {
     type = bool
 }
 
-variable "is_peering_required" {
-    default = false
-    type = bool
-}
